@@ -1,12 +1,5 @@
 """
 
-*** https://github.com/timzhang642/MNIST-RBM/blob/master/Restricted%20Boltzmann%20Machine%20-%20MNIST.ipynb (gibbs Sampling)
-
-In this file, I provide an implementation of Restricted Botlzmann Machine with input units' values in range [0,1].
-
-The notation and the training procedure followes the Hinton's paper
-"A Practical Guide to Training Restricted Boltzmann Machines", 2010.
-
 """
 import sys
 from loader import load_mnist, save_mnist_image
